@@ -1,5 +1,5 @@
 # Star-Digital
-Analyzing 
+
 Star Digital is a multichannel video service provider and goal of this project is to analyze consumer response to ad decisions on the Star Digital Platform and answer the following questions.
 
 1. Is online advertising effective for Star Digital? In other words, is there a difference in conversion rate between the treatment and control groups?
